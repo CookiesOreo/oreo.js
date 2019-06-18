@@ -1,17 +1,6 @@
 # oreo.js
 A React Web Server
 
----------------
-
-# Devs
-
-@Narulacodes @ github
-@Narulatools @ Github
-@trafort @ github
-@tregstwitch @ Twiiter user
-
-
------------
 
 # Using And Running
 
